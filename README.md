@@ -2,7 +2,7 @@
 -  💼 Open for suggestions
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,gradle,git,github,sqlite,firebase&theme=light)](https://skillicons.dev)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,gradle,git,github,sqlite,firebase&theme=light)
  ##
  ### You can contact me:
   <a href = "https://t.me/aliakseikln"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
