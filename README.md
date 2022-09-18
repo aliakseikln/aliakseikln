@@ -1,9 +1,13 @@
+<img src="https://user-images.githubusercontent.com/48939805/190914687-7636f0eb-3105-41c8-b133-1fe6488c50b5.png" height="400px" align="right" > 
 
-### Hello, I'm a Junior Android Developer <img align="center" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/> 
+### Welcome to my page! 
+### I'm a Junior Android Developer <img align="center" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/> 
 -  💼 Open for suggestions
-##
+
+Here you will find some of my projects made for study cases. Please, feel free to make Forks, PRs, inform Issues or make comments. All suggestions are appreciated !
+
 ### Technologies:
-![My Skills](https://skillicons.dev/icons?i=java,kotlin,androidstudio,gradle,git,github,sqlite,firebase&theme=light)
+![My Skills](https://skillicons.dev/icons?i=java,kotlin,idea,androidstudio,gradle,git,github,firebase&theme=light)
  ##
  ### You can contact me:
   <a href = "https://t.me/aliakseikln"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
