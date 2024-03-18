@@ -5,7 +5,7 @@
 ## I'm an <img align="center" alt="Android" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"/> Developer  
 
 
-Here you will find some of my projects made for study cases. Please, feel free to make Forks, PRs, inform Issues or make comments. All suggestions are appreciated !
+Here you will find some of my projects made for study cases. Please, feel free to make Forks, PRs, inform Issues or make comments. All suggestions are appreciated!
 
 ### 🛠 Technologies:
 ![My Skills](https://skillicons.dev/icons?i=java,kotlin,idea,androidstudio,gradle,git,github,firebase&theme=light)
